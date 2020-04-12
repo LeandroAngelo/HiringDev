@@ -1,0 +1,8 @@
+C:\Users\leand\Source\Repos\HiringDev\Youtube.Event\bin\Debug\netcoreapp3.1\Youtube.Event.deps.json
+C:\Users\leand\Source\Repos\HiringDev\Youtube.Event\bin\Debug\netcoreapp3.1\Youtube.Event.dll
+C:\Users\leand\Source\Repos\HiringDev\Youtube.Event\bin\Debug\netcoreapp3.1\Youtube.Event.pdb
+C:\Users\leand\Source\Repos\HiringDev\Youtube.Event\obj\Debug\netcoreapp3.1\Youtube.Event.csprojAssemblyReference.cache
+C:\Users\leand\Source\Repos\HiringDev\Youtube.Event\obj\Debug\netcoreapp3.1\Youtube.Event.AssemblyInfoInputs.cache
+C:\Users\leand\Source\Repos\HiringDev\Youtube.Event\obj\Debug\netcoreapp3.1\Youtube.Event.AssemblyInfo.cs
+C:\Users\leand\Source\Repos\HiringDev\Youtube.Event\obj\Debug\netcoreapp3.1\Youtube.Event.dll
+C:\Users\leand\Source\Repos\HiringDev\Youtube.Event\obj\Debug\netcoreapp3.1\Youtube.Event.pdb

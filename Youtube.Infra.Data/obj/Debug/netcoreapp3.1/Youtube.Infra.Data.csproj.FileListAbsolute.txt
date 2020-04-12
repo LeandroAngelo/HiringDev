@@ -1,0 +1,8 @@
+C:\Users\leand\Source\Repos\HiringDev\Youtube.Infra.Data\bin\Debug\netcoreapp3.1\Youtube.Infra.Data.deps.json
+C:\Users\leand\Source\Repos\HiringDev\Youtube.Infra.Data\bin\Debug\netcoreapp3.1\Youtube.Infra.Data.dll
+C:\Users\leand\Source\Repos\HiringDev\Youtube.Infra.Data\bin\Debug\netcoreapp3.1\Youtube.Infra.Data.pdb
+C:\Users\leand\Source\Repos\HiringDev\Youtube.Infra.Data\obj\Debug\netcoreapp3.1\Youtube.Infra.Data.csprojAssemblyReference.cache
+C:\Users\leand\Source\Repos\HiringDev\Youtube.Infra.Data\obj\Debug\netcoreapp3.1\Youtube.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\leand\Source\Repos\HiringDev\Youtube.Infra.Data\obj\Debug\netcoreapp3.1\Youtube.Infra.Data.AssemblyInfo.cs
+C:\Users\leand\Source\Repos\HiringDev\Youtube.Infra.Data\obj\Debug\netcoreapp3.1\Youtube.Infra.Data.dll
+C:\Users\leand\Source\Repos\HiringDev\Youtube.Infra.Data\obj\Debug\netcoreapp3.1\Youtube.Infra.Data.pdb

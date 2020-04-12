@@ -1,0 +1,7 @@
+C:\Users\leand\Source\Repos\HiringDev\Youtube.Crosscutting.Utils\bin\Debug\netcoreapp3.1\Youtube.Crosscutting.Utils.deps.json
+C:\Users\leand\Source\Repos\HiringDev\Youtube.Crosscutting.Utils\bin\Debug\netcoreapp3.1\Youtube.Crosscutting.Utils.dll
+C:\Users\leand\Source\Repos\HiringDev\Youtube.Crosscutting.Utils\bin\Debug\netcoreapp3.1\Youtube.Crosscutting.Utils.pdb
+C:\Users\leand\Source\Repos\HiringDev\Youtube.Crosscutting.Utils\obj\Debug\netcoreapp3.1\Youtube.Crosscutting.Utils.AssemblyInfoInputs.cache
+C:\Users\leand\Source\Repos\HiringDev\Youtube.Crosscutting.Utils\obj\Debug\netcoreapp3.1\Youtube.Crosscutting.Utils.AssemblyInfo.cs
+C:\Users\leand\Source\Repos\HiringDev\Youtube.Crosscutting.Utils\obj\Debug\netcoreapp3.1\Youtube.Crosscutting.Utils.dll
+C:\Users\leand\Source\Repos\HiringDev\Youtube.Crosscutting.Utils\obj\Debug\netcoreapp3.1\Youtube.Crosscutting.Utils.pdb

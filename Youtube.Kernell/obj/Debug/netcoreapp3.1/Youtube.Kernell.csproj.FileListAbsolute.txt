@@ -1,0 +1,8 @@
+C:\Users\leand\Source\Repos\HiringDev\Youtube.Kernell\bin\Debug\netcoreapp3.1\Youtube.Kernell.deps.json
+C:\Users\leand\Source\Repos\HiringDev\Youtube.Kernell\bin\Debug\netcoreapp3.1\Youtube.Kernell.dll
+C:\Users\leand\Source\Repos\HiringDev\Youtube.Kernell\bin\Debug\netcoreapp3.1\Youtube.Kernell.pdb
+C:\Users\leand\Source\Repos\HiringDev\Youtube.Kernell\obj\Debug\netcoreapp3.1\Youtube.Kernell.csprojAssemblyReference.cache
+C:\Users\leand\Source\Repos\HiringDev\Youtube.Kernell\obj\Debug\netcoreapp3.1\Youtube.Kernell.AssemblyInfoInputs.cache
+C:\Users\leand\Source\Repos\HiringDev\Youtube.Kernell\obj\Debug\netcoreapp3.1\Youtube.Kernell.AssemblyInfo.cs
+C:\Users\leand\Source\Repos\HiringDev\Youtube.Kernell\obj\Debug\netcoreapp3.1\Youtube.Kernell.dll
+C:\Users\leand\Source\Repos\HiringDev\Youtube.Kernell\obj\Debug\netcoreapp3.1\Youtube.Kernell.pdb

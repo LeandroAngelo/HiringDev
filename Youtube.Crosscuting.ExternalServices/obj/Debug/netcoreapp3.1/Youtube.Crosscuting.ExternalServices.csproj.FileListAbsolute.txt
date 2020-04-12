@@ -1,0 +1,7 @@
+C:\Users\leand\Source\Repos\HiringDev\Youtube.Crosscuting.ExternalServices\bin\Debug\netcoreapp3.1\Youtube.Crosscuting.ExternalServices.deps.json
+C:\Users\leand\Source\Repos\HiringDev\Youtube.Crosscuting.ExternalServices\bin\Debug\netcoreapp3.1\Youtube.Crosscuting.ExternalServices.dll
+C:\Users\leand\Source\Repos\HiringDev\Youtube.Crosscuting.ExternalServices\bin\Debug\netcoreapp3.1\Youtube.Crosscuting.ExternalServices.pdb
+C:\Users\leand\Source\Repos\HiringDev\Youtube.Crosscuting.ExternalServices\obj\Debug\netcoreapp3.1\Youtube.Crosscuting.ExternalServices.AssemblyInfoInputs.cache
+C:\Users\leand\Source\Repos\HiringDev\Youtube.Crosscuting.ExternalServices\obj\Debug\netcoreapp3.1\Youtube.Crosscuting.ExternalServices.AssemblyInfo.cs
+C:\Users\leand\Source\Repos\HiringDev\Youtube.Crosscuting.ExternalServices\obj\Debug\netcoreapp3.1\Youtube.Crosscuting.ExternalServices.dll
+C:\Users\leand\Source\Repos\HiringDev\Youtube.Crosscuting.ExternalServices\obj\Debug\netcoreapp3.1\Youtube.Crosscuting.ExternalServices.pdb
